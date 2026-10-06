@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local device captures and downloaded vendor assets
+logcat.txt
+help.txt
+watch_assets/
+
+# Earlier experiments with hard-coded local device details
+control.py
+main.py
+raw.py
